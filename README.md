@@ -1,5 +1,8 @@
 # Game Touch
-Simple java touch games developed using Android Studio.
+
+![image](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+Simple java touch games developed using Android Studio. Written in Java.
 
 ## Gameplay:
 
@@ -20,4 +23,10 @@ The level ends when the timer runs out.
 Players see their total number of taps achieved in that level.
 They can then proceed to the next level.
 
-#### Kindly email me at mhusaynirfan@gmail.com for any enquiries.
+## Contact
+![image](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![image](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+- Husayn Irfan - mhusaynirfan@gmail.com
+- LinkedIn     - https://my.linkedin.com/in/husayn-irfan-7b4103258
+- Project link - https://github.com/husaynirfan1/Smart-Adaptive-Lamp/
