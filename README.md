@@ -29,4 +29,4 @@ They can then proceed to the next level.
 
 - Husayn Irfan - mhusaynirfan@gmail.com
 - LinkedIn     - https://my.linkedin.com/in/husayn-irfan-7b4103258
-- Project link - https://github.com/husaynirfan1/Smart-Adaptive-Lamp/
+- Project link - https://github.com/husaynirfan1/GameTouch
